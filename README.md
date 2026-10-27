@@ -1,40 +1,39 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.26.4 (27.10.2026)
+## Последняя версия: 0.26.5 (27.10.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-production-0.26.4.zip) (19,0 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-production-0.26.5.zip) (19,0 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.26.3 | [SHPURA-update-0.26.3-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.26.3-to-0.26.4.zip) (1,5 МБ) |
-| 0.26.2 | [SHPURA-update-0.26.2-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.26.2-to-0.26.4.zip) (1,7 МБ) |
-| 0.26.1 | [SHPURA-update-0.26.1-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.26.1-to-0.26.4.zip) (1,8 МБ) |
-| 0.25.0 | [SHPURA-update-0.25.0-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.25.0-to-0.26.4.zip) (3,6 МБ) |
-| 0.24.0 | [SHPURA-update-0.24.0-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.24.0-to-0.26.4.zip) (3,8 МБ) |
-| 0.23.4 | [SHPURA-update-0.23.4-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.23.4-to-0.26.4.zip) (3,8 МБ) |
-| 0.23.3 | [SHPURA-update-0.23.3-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.23.3-to-0.26.4.zip) (3,8 МБ) |
-| 0.23.1 | [SHPURA-update-0.23.1-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.23.1-to-0.26.4.zip) (3,8 МБ) |
-| 0.22.12 | [SHPURA-update-0.22.12-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.22.12-to-0.26.4.zip) (3,8 МБ) |
-| 0.22.11 | [SHPURA-update-0.22.11-to-0.26.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.4/SHPURA-update-0.22.11-to-0.26.4.zip) (3,9 МБ) |
+| 0.26.4 | [SHPURA-update-0.26.4-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.26.4-to-0.26.5.zip) (1,6 МБ) |
+| 0.26.3 | [SHPURA-update-0.26.3-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.26.3-to-0.26.5.zip) (1,7 МБ) |
+| 0.26.2 | [SHPURA-update-0.26.2-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.26.2-to-0.26.5.zip) (1,9 МБ) |
+| 0.26.1 | [SHPURA-update-0.26.1-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.26.1-to-0.26.5.zip) (1,9 МБ) |
+| 0.25.0 | [SHPURA-update-0.25.0-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.25.0-to-0.26.5.zip) (3,6 МБ) |
+| 0.24.0 | [SHPURA-update-0.24.0-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.24.0-to-0.26.5.zip) (3,8 МБ) |
+| 0.23.4 | [SHPURA-update-0.23.4-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.23.4-to-0.26.5.zip) (3,8 МБ) |
+| 0.23.3 | [SHPURA-update-0.23.3-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.23.3-to-0.26.5.zip) (3,8 МБ) |
+| 0.23.1 | [SHPURA-update-0.23.1-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.23.1-to-0.26.5.zip) (3,8 МБ) |
+| 0.22.12 | [SHPURA-update-0.22.12-to-0.26.5.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.5/SHPURA-update-0.22.12-to-0.26.5.zip) (3,8 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.26.4
+## Что нового в 0.26.5
 
-- **Страница «Обновляем магазин» вместо служебной строки.** Пока ставится обновление, покупатель видел сырой
-  ответ сервера `{"status":503,…}`. Теперь — страница в стиле входа в админку: рисунок с окном магазина и
-  шестерёнкой, «Оновлюємо магазин» / «Обновляем магазин», переключатель UA/RU, логотип, телефоны и почта магазина
-  из настроек. Язык — по адресу страницы или браузеру. Страница сама проверяет раз в 30 секунд, закончилось ли
-  обновление, и открывает магазин. Если обновление отменилось — «Магазин снова работает» и кнопка; если затянулось —
-  простые слова без технических подробностей. Запросы к API получают прежний ответ.
-- **Страница не зависит от того, что сейчас заменяется.** Она собрана целиком в одном файле, без сборки витрины и
-  внешних файлов, ложится первой в пакете обновления, и ту же страницу показывает аварийная защита запуска по
-  сохранённым заранее данным магазина.
+- **Ссылка на выпуски GitHub уже на месте.** В мастере обновления «По ссылке на выпуск» поле заполнено, под ним —
+  ссылка по умолчанию со значком «скопировать». Новая установка получает её сама, искать ссылку для обновления или
+  восстановления файлов не нужно. В режиме «С GitHub» видно, откуда берутся обновления.
+- **Ссылку можно сменить.** Другая ссылка запоминается после успешной проверки подписи выпуска, и дальше по ней
+  работают все пути: «С GitHub», ночная проверка, «Восстановить из выпуска». Кнопка «Вернуть ссылку по умолчанию»
+  возвращает исходную. Подпись проверяется всегда: чужой репозиторий без ключа магазина обновление не подсунет.
+- Ссылка по умолчанию живёт в одном месте — адресе репозитория выпусков; сменить его — значит поправить одну строку.
 
 ## История версий
 
+- **[0.26.5](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.5)** (27.10.2026) — Ссылка на выпуски GitHub уже на месте; Ссылку можно сменить.
 - **[0.26.4](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.4)** (27.10.2026) — Страница «Обновляем магазин» вместо служебной строки; Страница не зависит от того, что сейчас заменяется.
 - **[0.26.3](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.3)** (27.10.2026) — Картинки магазина больше не останавливают обновление; Пропавший файл, который новая версия всё равно удаляет, тоже не мешает; Ход установки — словами; Просмотр фото товара целиком в окне.
 - **[0.26.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.2)** (27.10.2026) — Обновление больше не оставляет сайт с ошибкой 500 посреди установки; Сайт сам поднимается, если замена файлов всё-таки сломала запуск; Картинки разделов — без кириллицы в имени файла.
@@ -47,7 +46,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.26.4](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.4), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.26.5](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.5), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
