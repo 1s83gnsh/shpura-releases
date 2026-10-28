@@ -1,37 +1,37 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.26.6 (28.10.2026)
+## Последняя версия: 0.26.7 (28.10.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-production-0.26.6.zip) (19,0 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-production-0.26.7.zip) (19,0 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.26.5 | [SHPURA-update-0.26.5-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.26.5-to-0.26.6.zip) (1,6 МБ) |
-| 0.26.4 | [SHPURA-update-0.26.4-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.26.4-to-0.26.6.zip) (1,8 МБ) |
-| 0.26.3 | [SHPURA-update-0.26.3-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.26.3-to-0.26.6.zip) (1,8 МБ) |
-| 0.26.2 | [SHPURA-update-0.26.2-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.26.2-to-0.26.6.zip) (1,9 МБ) |
-| 0.26.1 | [SHPURA-update-0.26.1-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.26.1-to-0.26.6.zip) (2,0 МБ) |
-| 0.25.0 | [SHPURA-update-0.25.0-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.25.0-to-0.26.6.zip) (3,6 МБ) |
-| 0.24.0 | [SHPURA-update-0.24.0-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.24.0-to-0.26.6.zip) (3,8 МБ) |
-| 0.23.4 | [SHPURA-update-0.23.4-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.23.4-to-0.26.6.zip) (3,8 МБ) |
-| 0.23.3 | [SHPURA-update-0.23.3-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.23.3-to-0.26.6.zip) (3,8 МБ) |
-| 0.23.1 | [SHPURA-update-0.23.1-to-0.26.6.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.6/SHPURA-update-0.23.1-to-0.26.6.zip) (3,8 МБ) |
+| 0.26.6 | [SHPURA-update-0.26.6-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.6-to-0.26.7.zip) (1,5 МБ) |
+| 0.26.5 | [SHPURA-update-0.26.5-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.5-to-0.26.7.zip) (1,6 МБ) |
+| 0.26.4 | [SHPURA-update-0.26.4-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.4-to-0.26.7.zip) (1,8 МБ) |
+| 0.26.3 | [SHPURA-update-0.26.3-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.3-to-0.26.7.zip) (1,8 МБ) |
+| 0.26.2 | [SHPURA-update-0.26.2-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.2-to-0.26.7.zip) (2,0 МБ) |
+| 0.26.1 | [SHPURA-update-0.26.1-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.26.1-to-0.26.7.zip) (2,0 МБ) |
+| 0.25.0 | [SHPURA-update-0.25.0-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.25.0-to-0.26.7.zip) (3,6 МБ) |
+| 0.24.0 | [SHPURA-update-0.24.0-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.24.0-to-0.26.7.zip) (3,8 МБ) |
+| 0.23.4 | [SHPURA-update-0.23.4-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.23.4-to-0.26.7.zip) (3,8 МБ) |
+| 0.23.3 | [SHPURA-update-0.23.3-to-0.26.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.26.7/SHPURA-update-0.23.3-to-0.26.7.zip) (3,8 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.26.6
+## Что нового в 0.26.7
 
-- **Новая картинка на странице «Обновляем магазин».** Прежняя — окно, шестерёнка и отдельно висящий ключ — смотрелась
-  несвязанной. Теперь на тетрадном листе жёлтый карандаш рисует витрину магазина грифелем: окно, карточки с рюкзаком,
-  тетрадью и карандашом, полосу хода. Эскиз наливается цветами сайта, карандаш ставит галочку, на угол окна падает
-  каска, как на логотипе, — и всё повторяется. Без JavaScript, при отключённых в системе анимациях и на экране
-  «Магазин снова работает» картинка стоит готовой.
-- **Ссылки «Администратору: ход обновления» на странице больше нет:** страницу видит покупатель, ему она не нужна.
+- **Страница «Обновляем магазин» стала объёмной.** Карандаш рисует современный интернет-магазин: окно витрины с
+  полосатым навесом и карточками товаров получает мягкую глубину, карандаш стал аккуратнее и ведёт кончик точно по
+  линии. Каски больше нет. Карточка с текстом справа — белый лист с тонким синим нижним слоем и приподнятым уголком.
+- Две колонки, цвета витрины, текст и контакты остались прежними: название, логотип, телефоны и почта берутся из
+  настроек магазина, украинский и русский переключаются, длинное название не наезжает на выбор языка.
 
 ## История версий
 
+- **[0.26.7](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.7)** (28.10.2026) — Страница «Обновляем магазин» стала объёмной.
 - **[0.26.6](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.6)** (28.10.2026) — Новая картинка на странице «Обновляем магазин»; Ссылки «Администратору: ход обновления» на странице больше нет:.
 - **[0.26.5](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.5)** (27.10.2026) — Ссылка на выпуски GitHub уже на месте; Ссылку можно сменить.
 - **[0.26.4](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.4)** (27.10.2026) — Страница «Обновляем магазин» вместо служебной строки; Страница не зависит от того, что сейчас заменяется.
@@ -46,7 +46,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.26.6](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.6), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.26.7](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.26.7), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
