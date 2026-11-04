@@ -1,33 +1,33 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.38.7 (04.11.2026)
+## Последняя версия: 0.38.8 (04.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-production-0.38.7.zip) (20,4 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-production-0.38.8.zip) (20,4 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.38.6 | [SHPURA-update-0.38.6-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.6-to-0.38.7.zip) (995,1 КБ) |
-| 0.38.5 | [SHPURA-update-0.38.5-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.5-to-0.38.7.zip) (2,0 МБ) |
-| 0.38.3 | [SHPURA-update-0.38.3-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.3-to-0.38.7.zip) (2,5 МБ) |
-| 0.38.2 | [SHPURA-update-0.38.2-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.2-to-0.38.7.zip) (2,5 МБ) |
-| 0.38.1 | [SHPURA-update-0.38.1-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.1-to-0.38.7.zip) (2,5 МБ) |
-| 0.38.0 | [SHPURA-update-0.38.0-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.38.0-to-0.38.7.zip) (3,5 МБ) |
-| 0.37.0 | [SHPURA-update-0.37.0-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.37.0-to-0.38.7.zip) (3,8 МБ) |
-| 0.36.2 | [SHPURA-update-0.36.2-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.36.2-to-0.38.7.zip) (3,8 МБ) |
-| 0.36.1 | [SHPURA-update-0.36.1-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.36.1-to-0.38.7.zip) (3,8 МБ) |
-| 0.35.0 | [SHPURA-update-0.35.0-to-0.38.7.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.7/SHPURA-update-0.35.0-to-0.38.7.zip) (3,9 МБ) |
+| 0.38.7 | [SHPURA-update-0.38.7-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.7-to-0.38.8.zip) (1022,3 КБ) |
+| 0.38.6 | [SHPURA-update-0.38.6-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.6-to-0.38.8.zip) (1,1 МБ) |
+| 0.38.5 | [SHPURA-update-0.38.5-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.5-to-0.38.8.zip) (2,0 МБ) |
+| 0.38.3 | [SHPURA-update-0.38.3-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.3-to-0.38.8.zip) (2,5 МБ) |
+| 0.38.2 | [SHPURA-update-0.38.2-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.2-to-0.38.8.zip) (2,5 МБ) |
+| 0.38.1 | [SHPURA-update-0.38.1-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.1-to-0.38.8.zip) (2,5 МБ) |
+| 0.38.0 | [SHPURA-update-0.38.0-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.38.0-to-0.38.8.zip) (3,5 МБ) |
+| 0.37.0 | [SHPURA-update-0.37.0-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.37.0-to-0.38.8.zip) (3,8 МБ) |
+| 0.36.2 | [SHPURA-update-0.36.2-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.36.2-to-0.38.8.zip) (3,8 МБ) |
+| 0.36.1 | [SHPURA-update-0.36.1-to-0.38.8.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.38.8/SHPURA-update-0.36.1-to-0.38.8.zip) (3,8 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.38.7
+## Что нового в 0.38.8
 
-- **На демо снова можно подключить ИИ.** Демо-копия переносила таблицы настроек ИИ пустыми: на экране «ИИ» было «Подключен нет», ни моделей, ни задач, и ключ провайдера было некуда ввести. Поэтому обещание из 0.38.3 («включать ли настоящую модель на демо, решается на экране "ИИ"») на деле не выполнялось. Теперь копия переносит провайдеров, модели, задачи и шаблоны подсказок — без ключей, текстов ошибок и авторов. Уже развёрнутое демо получает их при обновлении до 0.38.7, пересоздавать копию не нужно. На магазине и на демо, где провайдер уже есть, обновление ничего не меняет. После обновления на экране «ИИ» в строку MiniMax вставляется ключ, затем «Проверить и сохранить».
-- **Проверки больше не засоряют диск.** Остатки проверок во временной папке PHP к 04.11 заняли 18,5 ГБ, диск кончился, проверки перед записью работы зависали. Теперь каждая проверка убирает свои временные файлы, а сторож не пускает новые проверки мимо общего помощника. Работы магазина это не касается.
+- **Число на значке корзины совпадает с корзиной.** Если покупатель менял корзину в другой вкладке, значок в шапке и в нижней панели телефона помнил старое число: в корзине одна позиция, а на значке 2. Шапка узнавала только об изменениях в своей вкладке. Теперь значок обновляется и по изменениям из других вкладок, включая очистку корзины.
 
 ## История версий
 
+- **[0.38.8](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.8)** (04.11.2026) — Число на значке корзины совпадает с корзиной.
 - **[0.38.7](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.7)** (04.11.2026) — На демо снова можно подключить ИИ; Проверки больше не засоряют диск.
 - **[0.38.6](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.6)** (04.11.2026) — Восстановление из копии не обрывается пределом хостинга; Страницы витрины открываются повторно без работы сервера.
 - **[0.38.5](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.5)** (03.11.2026) — Страницы витрины открываются заметно быстрее; Страница товара больше не мигает голым текстом; Установка пустого магазина не обрывается пределом хостинга; Кнопка ИИ-помощника включается одной галочкой.
@@ -63,7 +63,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.38.7](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.7), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.38.8](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.38.8), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
