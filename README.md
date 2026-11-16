@@ -1,37 +1,53 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.74.1 (16.11.2026)
+## Последняя версия: 0.75.0 (16.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-production-0.74.1.zip) (24,0 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-production-0.75.0.zip) (24,0 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.74.0 | [SHPURA-update-0.74.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.74.0-to-0.74.1.zip) (1,7 МБ) |
-| 0.72.0 | [SHPURA-update-0.72.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.72.0-to-0.74.1.zip) (3,2 МБ) |
-| 0.71.0 | [SHPURA-update-0.71.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.71.0-to-0.74.1.zip) (3,2 МБ) |
-| 0.70.1 | [SHPURA-update-0.70.1-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.70.1-to-0.74.1.zip) (3,2 МБ) |
-| 0.70.0 | [SHPURA-update-0.70.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.70.0-to-0.74.1.zip) (3,3 МБ) |
-| 0.69.1 | [SHPURA-update-0.69.1-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.69.1-to-0.74.1.zip) (3,4 МБ) |
-| 0.68.0 | [SHPURA-update-0.68.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.68.0-to-0.74.1.zip) (3,7 МБ) |
-| 0.67.0 | [SHPURA-update-0.67.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.67.0-to-0.74.1.zip) (3,8 МБ) |
-| 0.66.0 | [SHPURA-update-0.66.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.66.0-to-0.74.1.zip) (3,9 МБ) |
-| 0.65.0 | [SHPURA-update-0.65.0-to-0.74.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.74.1/SHPURA-update-0.65.0-to-0.74.1.zip) (3,9 МБ) |
+| 0.74.1 | [SHPURA-update-0.74.1-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.74.1-to-0.75.0.zip) (3,1 МБ) |
+| 0.74.0 | [SHPURA-update-0.74.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.74.0-to-0.75.0.zip) (3,1 МБ) |
+| 0.72.0 | [SHPURA-update-0.72.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.72.0-to-0.75.0.zip) (3,3 МБ) |
+| 0.71.0 | [SHPURA-update-0.71.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.71.0-to-0.75.0.zip) (3,4 МБ) |
+| 0.70.1 | [SHPURA-update-0.70.1-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.70.1-to-0.75.0.zip) (3,4 МБ) |
+| 0.70.0 | [SHPURA-update-0.70.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.70.0-to-0.75.0.zip) (3,4 МБ) |
+| 0.69.1 | [SHPURA-update-0.69.1-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.69.1-to-0.75.0.zip) (3,5 МБ) |
+| 0.68.0 | [SHPURA-update-0.68.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.68.0-to-0.75.0.zip) (3,8 МБ) |
+| 0.67.0 | [SHPURA-update-0.67.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.67.0-to-0.75.0.zip) (3,9 МБ) |
+| 0.66.0 | [SHPURA-update-0.66.0-to-0.75.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.75.0/SHPURA-update-0.66.0-to-0.75.0.zip) (4,0 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.74.1
+## Что нового в 0.75.0
 
-- **Подпись о доставке на оформлении больше не путается.** На медленном хостинге (демо) ответы пересчёта приходили не
-  по порядку: под «Самовивіз» висела подпись «Нової Пошти», а под ней — самовывоза, и текст склеивался. Теперь
-  применяется только ответ на последний запрос, а пока считается — старая подпись не показывается.
-- **Номер шага в кружке — по центру.**
-- Подсказка улиц для курьера работает с ключом «Нової Пошти»; на демо ключа нет (копия не переносит секреты), поэтому
-  там подсказок нет — на рабочем сайте они есть.
+Поисковики, соцсети и ИИ видят магазин целиком (план «SEO 2026: главная, каталог и товар»; три
+независимых SEO-исследования 16.11 сошлись на одном списке поломок).
+
+- **Картинка товара в превью больше не 404.** Telegram, Viber, Facebook и Google получали адрес
+  оригинала `/catalog/…jpg`, которого на сервере нет; теперь — рабочая миниатюра 960 с размером и
+  подписью, в разметке Google — абсолютные адреса.
+- **Робот без JavaScript видит страницу.** Главная отдаёт заголовок со смыслом, `h1`, разделы и
+  товары ссылками; ссылки и крошки везде — человеческие адреса вместо `/category/N`; вторая и
+  следующие страницы раздела — свои товары, свой canonical и ссылки «Попередня / Наступна»;
+  поиск помечен `noindex,follow`.
+- **Страница видна сразу, а не через 10–15 с.** Текст, цена и фото показываются, как только пришёл
+  HTML, — до загрузки кода; приложение затем заменяет их собой.
+- **Заголовки и описания — шаблонами в админке.** «SEO → Шаблоны»: главная, раздел («купити в
+  інтернет-магазині», число в наличии, цена «від»), товар; короткое описание короче порога
+  заменяется шаблоном с характеристиками и ценой. Ручные SEO-поля главнее шаблона.
+- **Разметка и соцсети.** `og:locale`, цена и наличие товара для Facebook, `ItemList` со ссылками,
+  `itemCondition`, адрес и часы магазина в разметке (домашний адрес ФОП не выводится — решение
+  13.10), картинка превью главной настройкой, у раздела — фото первого товара.
+- **Аналитика.** Добор фактов каждые 15 минут больше не берёт заново заказы, которые в аналитику
+  не попадают (техническая отмена, корзина).
+- Сервер не называет версию PHP; «4 товари» по правилу склонения.
 
 ## История версий
 
+- **[0.75.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.75.0)** (16.11.2026) — Картинка товара в превью больше не 404; Робот без JavaScript видит страницу; Страница видна сразу, а не через 10–15 с; Заголовки и описания — шаблонами в админке; Разметка и соцсети; Аналитика.
 - **[0.74.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.74.1)** (16.11.2026) — Подпись о доставке на оформлении больше не путается; Номер шага в кружке — по центру.
 - **[0.74.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.74.0)** (16.11.2026) — Отчество необязательно; Телефон как на Prom:; Курьер «Нова Пошта»:; Блок «Ваш заказ»:; Страница по эталону витрины:; Один реестр сроков и одна ночная чистка; Файловые логи сайта — 30 дней; Экран «Система → Хранение журналов»:; Журнал приёма вебхуков «Новой Почты»; Перенос OpenCart:.
 - **[0.72.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.72.0)** (14.11.2026) — Журнал справочников и «Обновить сейчас»; Предохранитель обвала; Заказ на закрытом отделении; Вкладка «Отслеживание»:; Подсказка улиц; Безопасность:.
@@ -109,7 +125,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.74.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.74.1), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.75.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.75.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
