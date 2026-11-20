@@ -1,34 +1,45 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.79.1 (20.11.2026)
+## Последняя версия: 0.79.2 (20.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-production-0.79.1.zip) (24,9 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-production-0.79.2.zip) (24,9 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.79.0 | [SHPURA-update-0.79.0-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.79.0-to-0.79.1.zip) (1,2 МБ) |
-| 0.78.0 | [SHPURA-update-0.78.0-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.78.0-to-0.79.1.zip) (5,0 МБ) |
-| 0.77.0 | [SHPURA-update-0.77.0-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.77.0-to-0.79.1.zip) (5,0 МБ) |
-| 0.76.2 | [SHPURA-update-0.76.2-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.76.2-to-0.79.1.zip) (5,2 МБ) |
-| 0.76.1 | [SHPURA-update-0.76.1-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.76.1-to-0.79.1.zip) (5,2 МБ) |
-| 0.76.0 | [SHPURA-update-0.76.0-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.76.0-to-0.79.1.zip) (5,2 МБ) |
-| 0.75.2 | [SHPURA-update-0.75.2-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.75.2-to-0.79.1.zip) (5,2 МБ) |
-| 0.75.1 | [SHPURA-update-0.75.1-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.75.1-to-0.79.1.zip) (5,2 МБ) |
-| 0.75.0 | [SHPURA-update-0.75.0-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.75.0-to-0.79.1.zip) (5,2 МБ) |
-| 0.74.1 | [SHPURA-update-0.74.1-to-0.79.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.1/SHPURA-update-0.74.1-to-0.79.1.zip) (5,3 МБ) |
+| 0.79.1 | [SHPURA-update-0.79.1-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.79.1-to-0.79.2.zip) (3,0 МБ) |
+| 0.79.0 | [SHPURA-update-0.79.0-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.79.0-to-0.79.2.zip) (3,0 МБ) |
+| 0.78.0 | [SHPURA-update-0.78.0-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.78.0-to-0.79.2.zip) (5,0 МБ) |
+| 0.77.0 | [SHPURA-update-0.77.0-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.77.0-to-0.79.2.zip) (5,1 МБ) |
+| 0.76.2 | [SHPURA-update-0.76.2-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.76.2-to-0.79.2.zip) (5,3 МБ) |
+| 0.76.1 | [SHPURA-update-0.76.1-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.76.1-to-0.79.2.zip) (5,3 МБ) |
+| 0.76.0 | [SHPURA-update-0.76.0-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.76.0-to-0.79.2.zip) (5,3 МБ) |
+| 0.75.2 | [SHPURA-update-0.75.2-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.75.2-to-0.79.2.zip) (5,3 МБ) |
+| 0.75.1 | [SHPURA-update-0.75.1-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.75.1-to-0.79.2.zip) (5,3 МБ) |
+| 0.75.0 | [SHPURA-update-0.75.0-to-0.79.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.79.2/SHPURA-update-0.75.0-to-0.79.2.zip) (5,3 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.79.1
+## Что нового в 0.79.2
 
-Починка выпуска 0.79.0: в примере договора API приложения покупателя стоял образец ключа Firebase в виде настоящего
-ключа Google, и сканер выпуска справедливо не пропустил пакет. Образец заменён нейтральной строкой; поведение сайта
-не менялось. Сайт, поставленный пакетом 0.79.0, обновляется кнопкой «Система → Обновление».
+Уроки переезда на shpura.com.ua.
+
+- **Витрина показывает все опубликованные товары.** Показ решает только состояние товара (на сайте, скрыт, архив), а не
+  остаток: товар без остатка виден в разделах, на главной, в поиске и в карте сайта с пометкой «Немає в наявності» и
+  стоит после товаров в наличии. Раньше пустой файл поставщика (15.11) убирал с витрины и из карты сайта все разделы.
+  В карточке без наличия — одна главная кнопка «Повідомити про наявність» вместо двух.
+- **Мастер установки без танцев.** Установку ведёт один браузер (пропуск в cookie), заходы посетителей и роботов его
+  не сбрасывают и видят заставку «Оновлюємо магазин»; браузер не подставляет почту в поля базы. После восстановления
+  копии пути другой машины (PHP для cron, папки фидов) забываются; строки cron берутся только из пути, который есть на
+  сервере, рядом — команда для панели хостинга.
+- **Язык статусов заказов** в админке и приложении сотрудников — по языку профиля сотрудника.
+- **Свёрнутая панель админки:** «Посмотреть как должность» — значком по оси колонки.
+- Стекло нижней панели приложения плотнее (контраст подписи 4,5:1); спека 30 дополнена решениями 21.11.
 
 ## История версий
 
+- **[0.79.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.79.2)** (20.11.2026) — Витрина показывает все опубликованные товары; Мастер установки без танцев; Язык статусов заказов; Свёрнутая панель админки:.
 - **[0.79.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.79.1)** (20.11.2026) — подробности на странице выпуска.
 - **[0.78.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.78.0)** (18.11.2026) — Корзина по эталону витрины; «SEO → Вопросы разделов»; Черновики текстов посадочных; Менеджер узнаёт о новом оптовике.
 - **[0.77.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.77.0)** (18.11.2026) — «Постійний покупець»; Опт по корзине; Покупатель видит, что будет; Админка; Посадочные и разделы.
@@ -115,7 +126,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.79.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.79.1), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.79.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.79.2), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
