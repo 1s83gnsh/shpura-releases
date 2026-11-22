@@ -1,41 +1,42 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.83.0 (22.11.2026)
+## Последняя версия: 0.83.1 (22.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-production-0.83.0.zip) (25,2 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-production-0.83.1.zip) (25,2 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.82.0 | [SHPURA-update-0.82.0-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.82.0-to-0.83.0.zip) (3,1 МБ) |
-| 0.81.0 | [SHPURA-update-0.81.0-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.81.0-to-0.83.0.zip) (3,6 МБ) |
-| 0.80.0 | [SHPURA-update-0.80.0-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.80.0-to-0.83.0.zip) (3,7 МБ) |
-| 0.79.15 | [SHPURA-update-0.79.15-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.15-to-0.83.0.zip) (4,1 МБ) |
-| 0.79.14 | [SHPURA-update-0.79.14-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.14-to-0.83.0.zip) (4,1 МБ) |
-| 0.79.13 | [SHPURA-update-0.79.13-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.13-to-0.83.0.zip) (4,2 МБ) |
-| 0.79.12 | [SHPURA-update-0.79.12-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.12-to-0.83.0.zip) (4,4 МБ) |
-| 0.79.11 | [SHPURA-update-0.79.11-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.11-to-0.83.0.zip) (4,5 МБ) |
-| 0.79.10 | [SHPURA-update-0.79.10-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.10-to-0.83.0.zip) (4,5 МБ) |
-| 0.79.8 | [SHPURA-update-0.79.8-to-0.83.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.0/SHPURA-update-0.79.8-to-0.83.0.zip) (4,5 МБ) |
+| 0.83.0 | [SHPURA-update-0.83.0-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.83.0-to-0.83.1.zip) (3,0 МБ) |
+| 0.82.0 | [SHPURA-update-0.82.0-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.82.0-to-0.83.1.zip) (3,2 МБ) |
+| 0.81.0 | [SHPURA-update-0.81.0-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.81.0-to-0.83.1.zip) (3,6 МБ) |
+| 0.80.0 | [SHPURA-update-0.80.0-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.80.0-to-0.83.1.zip) (3,8 МБ) |
+| 0.79.15 | [SHPURA-update-0.79.15-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.15-to-0.83.1.zip) (4,1 МБ) |
+| 0.79.14 | [SHPURA-update-0.79.14-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.14-to-0.83.1.zip) (4,1 МБ) |
+| 0.79.13 | [SHPURA-update-0.79.13-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.13-to-0.83.1.zip) (4,1 МБ) |
+| 0.79.12 | [SHPURA-update-0.79.12-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.12-to-0.83.1.zip) (4,4 МБ) |
+| 0.79.11 | [SHPURA-update-0.79.11-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.11-to-0.83.1.zip) (4,4 МБ) |
+| 0.79.10 | [SHPURA-update-0.79.10-to-0.83.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.83.1/SHPURA-update-0.79.10-to-0.83.1.zip) (4,5 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.83.0
+## Что нового в 0.83.1
 
-Три бота Telegram видны и переключаются с экрана; цена конкурента за штуку и выгрузка на языке сотрудника.
+Замечания независимого ревью Telegram закрыты.
 
-- **«Настройки → Telegram»: сводка «Три бота».** Бот сотрудников, бот магазина SHPURA и трекер заказов Prom (RU4KA):
-  как каждый принимает сообщения, кто подключён и что требует внимания словами; «Принимать здесь» у бота, который
-  принимает на другой установке. Кнопка «Переезд бота сотрудников» — подтверждение и пароль; после переезда прежний
-  `@ru4ka_com_ua_bot` становится трекером. Справка из 8 шагов — что сделать в @BotFather. Счётчик групп — настоящий.
-- **Хост не уступает бота копии.** Если тот же ключ опрашивает ещё одна установка (копия сайта), магазин продолжает
-  работать и присылает тревогу раз в сутки, а не останавливает уведомления сотрудникам (независимое ревью 22.11).
-- **«В наборе у них: N шт.»** в раскрытии отчёта «Цены → Рынок» — цена конкурента за нашу единицу, сводка
-  пересчитывается сразу. Выгрузка отчёта — на языке сотрудника (uk/ru).
+- Смена ключа бота, у которого ключ уже есть, — только после пароля (как переезд).
+- Копия сайта не снимает вебхук хоста и ручными кнопками; признак «эта установка — хост» нельзя получить подделкой
+  заголовка запроса.
+- В группы номер заказа берётся только из самого заказа; события про заказы ROZETKA не уходят в группы никогда —
+  правило в каталоге событий со сторожем.
+- Группа становится «без ответственного» и когда у добавившего забрали право или он отвязал Telegram.
+- Отключённый сотрудник на любые сообщения получает только «доступ закрыт» (не чаще раза в час — настройка).
+- Трекер Prom не служит неактивной привязке.
 
 ## История версий
 
+- **[0.83.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.83.1)** (22.11.2026) — подробности на странице выпуска.
 - **[0.83.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.83.0)** (22.11.2026) — «Настройки → Telegram»: сводка «Три бота»; Хост не уступает бота копии; «В наборе у них: N шт.».
 - **[0.82.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.82.0)** (22.11.2026) — «Цены → Рынок» — отчёт ценовой конкуренции; Трекер заказов Prom в Telegram; Боты покупателей — только личный чат:; Переезд бота сотрудников.
 - **[0.81.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.81.0)** (22.11.2026) — «Анализ цен конкурентов» в каталоге; Боты покупателей; Журнал склада; Быстрее выпуски.
@@ -139,7 +140,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.83.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.83.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.83.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.83.1), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
