@@ -1,40 +1,38 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.88.2 (23.11.2026)
+## Последняя версия: 0.88.3 (23.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-production-0.88.2.zip) (25,5 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-production-0.88.3.zip) (25,5 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.88.1 | [SHPURA-update-0.88.1-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.88.1-to-0.88.2.zip) (3,1 МБ) |
-| 0.88.0 | [SHPURA-update-0.88.0-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.88.0-to-0.88.2.zip) (3,2 МБ) |
-| 0.87.0 | [SHPURA-update-0.87.0-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.87.0-to-0.88.2.zip) (3,4 МБ) |
-| 0.86.2 | [SHPURA-update-0.86.2-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.86.2-to-0.88.2.zip) (3,9 МБ) |
-| 0.86.1 | [SHPURA-update-0.86.1-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.86.1-to-0.88.2.zip) (3,9 МБ) |
-| 0.86.0 | [SHPURA-update-0.86.0-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.86.0-to-0.88.2.zip) (4,0 МБ) |
-| 0.85.10 | [SHPURA-update-0.85.10-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.85.10-to-0.88.2.zip) (4,1 МБ) |
-| 0.85.9 | [SHPURA-update-0.85.9-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.85.9-to-0.88.2.zip) (4,1 МБ) |
-| 0.85.8 | [SHPURA-update-0.85.8-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.85.8-to-0.88.2.zip) (4,3 МБ) |
-| 0.85.7 | [SHPURA-update-0.85.7-to-0.88.2.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.2/SHPURA-update-0.85.7-to-0.88.2.zip) (4,3 МБ) |
+| 0.88.2 | [SHPURA-update-0.88.2-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.88.2-to-0.88.3.zip) (591,5 КБ) |
+| 0.88.1 | [SHPURA-update-0.88.1-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.88.1-to-0.88.3.zip) (3,1 МБ) |
+| 0.88.0 | [SHPURA-update-0.88.0-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.88.0-to-0.88.3.zip) (3,2 МБ) |
+| 0.87.0 | [SHPURA-update-0.87.0-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.87.0-to-0.88.3.zip) (3,5 МБ) |
+| 0.86.2 | [SHPURA-update-0.86.2-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.86.2-to-0.88.3.zip) (4,0 МБ) |
+| 0.86.1 | [SHPURA-update-0.86.1-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.86.1-to-0.88.3.zip) (4,0 МБ) |
+| 0.86.0 | [SHPURA-update-0.86.0-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.86.0-to-0.88.3.zip) (4,0 МБ) |
+| 0.85.10 | [SHPURA-update-0.85.10-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.85.10-to-0.88.3.zip) (4,1 МБ) |
+| 0.85.9 | [SHPURA-update-0.85.9-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.85.9-to-0.88.3.zip) (4,1 МБ) |
+| 0.85.8 | [SHPURA-update-0.85.8-to-0.88.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.88.3/SHPURA-update-0.85.8-to-0.88.3.zip) (4,3 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.88.2
+## Что нового в 0.88.3
 
-Фиды Prom и ROZETKA собираются по рабочему скрипту владельца из OpenCart.
+0.88.2 не вставала на рабочем сайте: обновление с 0.88.1 откатилось с «лишние файлы: backend/public/build/chunk-…».
 
-- **Prom.** Импорт ругался на все 969 товаров: «Описание укр — не задано обязательное поле» (уходило украинское
-  название без украинского описания). Теперь фид Prom одноязычный, как в OpenCart; ключевые слова, все фото (до 10),
-  бренд у каждого товара (пустой — если бренда нет), страна-производитель по умолчанию «Китай» (настройка),
-  характеристики длиннее 255 знаков сокращаются по границе слова.
-- **ROZETKA.** Все фото (до 15), пустой бренд допустим, своя проверка фида по правилам прайс-листа ROZETKA вместо
-  проверки Prom; на карточке оба адреса — в кабинете ROZETKA (`shop_rozetka.xml`) и прямой.
-- Правила сборки по площадкам — настройка `marketplace.feed.yml_rules`. Выпуск без изменений базы.
+- Установщик 0.88.0–0.88.2 при сборке новой версии «рядом» не знал про файлы экранов, отложенные на удаление
+  (`remove_later`, 0.88.0), и считал 363 старых чанка лишними. Пакеты с этих версий теперь удаляют старые чанки
+  сразу, как раньше; в установщике сверка пропускает отложенные файлы — отложенное удаление работает с 0.88.3.
+- Содержимое 0.88.2 (фиды Prom и ROZETKA по скрипту OpenCart) входит целиком. Выпуск без изменений базы.
 
 ## История версий
 
+- **[0.88.3](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.3)** (23.11.2026) — подробности на странице выпуска.
 - **[0.88.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.2)** (23.11.2026) — Prom; ROZETKA.
 - **[0.88.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.1)** (23.11.2026) — Очередь; Копия базы при обновлении; Фид ROZETKA по адресу `shop_rozetka.xml`.
 - **[0.88.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.0)** (23.11.2026) — Быстрое обновление («только файлы»); Ночное окно (решение владельца); Отказы при оформлении на языке покупателя.
@@ -159,7 +157,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.88.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.2), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.88.3](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.88.3), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
