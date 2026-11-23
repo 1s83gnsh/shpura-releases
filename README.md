@@ -1,38 +1,40 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.86.0 (23.11.2026)
+## Последняя версия: 0.86.1 (23.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-production-0.86.0.zip) (25,4 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-production-0.86.1.zip) (25,4 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.85.10 | [SHPURA-update-0.85.10-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.10-to-0.86.0.zip) (3,3 МБ) |
-| 0.85.9 | [SHPURA-update-0.85.9-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.9-to-0.86.0.zip) (3,4 МБ) |
-| 0.85.8 | [SHPURA-update-0.85.8-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.8-to-0.86.0.zip) (3,7 МБ) |
-| 0.85.7 | [SHPURA-update-0.85.7-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.7-to-0.86.0.zip) (3,7 МБ) |
-| 0.85.6 | [SHPURA-update-0.85.6-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.6-to-0.86.0.zip) (3,9 МБ) |
-| 0.85.5 | [SHPURA-update-0.85.5-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.5-to-0.86.0.zip) (3,9 МБ) |
-| 0.85.4 | [SHPURA-update-0.85.4-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.4-to-0.86.0.zip) (4,1 МБ) |
-| 0.85.3 | [SHPURA-update-0.85.3-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.3-to-0.86.0.zip) (4,2 МБ) |
-| 0.85.2 | [SHPURA-update-0.85.2-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.2-to-0.86.0.zip) (4,2 МБ) |
-| 0.85.1 | [SHPURA-update-0.85.1-to-0.86.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.0/SHPURA-update-0.85.1-to-0.86.0.zip) (4,2 МБ) |
+| 0.86.0 | [SHPURA-update-0.86.0-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.86.0-to-0.86.1.zip) (1,9 МБ) |
+| 0.85.10 | [SHPURA-update-0.85.10-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.10-to-0.86.1.zip) (3,4 МБ) |
+| 0.85.9 | [SHPURA-update-0.85.9-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.9-to-0.86.1.zip) (3,4 МБ) |
+| 0.85.8 | [SHPURA-update-0.85.8-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.8-to-0.86.1.zip) (3,7 МБ) |
+| 0.85.7 | [SHPURA-update-0.85.7-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.7-to-0.86.1.zip) (3,7 МБ) |
+| 0.85.6 | [SHPURA-update-0.85.6-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.6-to-0.86.1.zip) (3,9 МБ) |
+| 0.85.5 | [SHPURA-update-0.85.5-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.5-to-0.86.1.zip) (3,9 МБ) |
+| 0.85.4 | [SHPURA-update-0.85.4-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.4-to-0.86.1.zip) (4,1 МБ) |
+| 0.85.3 | [SHPURA-update-0.85.3-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.3-to-0.86.1.zip) (4,2 МБ) |
+| 0.85.2 | [SHPURA-update-0.85.2-to-0.86.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.86.1/SHPURA-update-0.85.2-to-0.86.1.zip) (4,2 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.86.0
+## Что нового в 0.86.1
 
-Уведомления сотрудникам по смыслу и современный колокольчик.
+Уведомления для приложения сотрудников 1.5.0 — пачкой и по-честному.
 
-- **Темы уведомлений.** Восемь тем и «Заказы ROZETKA»; в профиле «Уведомления» один выбор для Telegram и телефона,
-  тихие часы (по умолчанию выключены). Вместо пачки пушей — одна сводка «Ще N подій».
-- **Пуши на телефон** группируются по заказу (новый статус заменяет прежний), каналы Android по темам.
-- **Колокольчик.** «Непрочитані / Усі», «Прочитать все», «Очистить прочитанные» с «Отменить», стопки ×N, счётчик
-  «99+»; «прочитано» и «скрыто» у каждого своё. Уведомления хранятся 90 дней.
+- **Скрыть и вернуть пачкой.** «Очистить прочитанные» и стопки скрываются и возвращаются одним запросом.
+- **Каналы на телефоне по важности.** Смена важности темы на сайте создаёт новый канал на телефоне — настройка
+  действительно применяется.
+- **Готовность пушей.** Сайт сообщает приложению, подключён ли Firebase и принят ли телефон, — без этого колонка
+  «Телефон» в приложении неактивна с пояснением.
+- **Ошибки в профиле уведомлений** — на языке сотрудника.
 
 ## История версий
 
+- **[0.86.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.86.1)** (23.11.2026) — Скрыть и вернуть пачкой; Каналы на телефоне по важности; Готовность пушей; Ошибки в профиле уведомлений.
 - **[0.86.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.86.0)** (23.11.2026) — Темы уведомлений; Пуши на телефон; Колокольчик.
 - **[0.85.10](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.85.10)** (23.11.2026) — Каталог, «Найти по фото» и склад.
 - **[0.85.9](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.85.9)** (23.11.2026) — Боевой режим площадки на экране; Рекламные письма; Кампания «−5 % на перше замовлення в застосунку»; Сравнение для приложения покупателей.
@@ -151,7 +153,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.86.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.86.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.86.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.86.1), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
