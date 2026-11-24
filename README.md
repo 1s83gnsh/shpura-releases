@@ -1,48 +1,41 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.91.0 (24.11.2026)
+## Последняя версия: 0.91.1 (24.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-production-0.91.0.zip) (25,7 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-production-0.91.1.zip) (25,7 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.90.1 | [SHPURA-update-0.90.1-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.90.1-to-0.91.0.zip) (3,4 МБ) |
-| 0.89.2 | [SHPURA-update-0.89.2-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.89.2-to-0.91.0.zip) (3,8 МБ) |
-| 0.89.0 | [SHPURA-update-0.89.0-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.89.0-to-0.91.0.zip) (4,0 МБ) |
-| 0.88.4 | [SHPURA-update-0.88.4-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.88.4-to-0.91.0.zip) (4,1 МБ) |
-| 0.88.3 | [SHPURA-update-0.88.3-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.88.3-to-0.91.0.zip) (4,1 МБ) |
-| 0.88.2 | [SHPURA-update-0.88.2-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.88.2-to-0.91.0.zip) (4,1 МБ) |
-| 0.88.1 | [SHPURA-update-0.88.1-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.88.1-to-0.91.0.zip) (4,1 МБ) |
-| 0.88.0 | [SHPURA-update-0.88.0-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.88.0-to-0.91.0.zip) (4,1 МБ) |
-| 0.87.0 | [SHPURA-update-0.87.0-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.87.0-to-0.91.0.zip) (4,3 МБ) |
-| 0.86.2 | [SHPURA-update-0.86.2-to-0.91.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.0/SHPURA-update-0.86.2-to-0.91.0.zip) (4,5 МБ) |
+| 0.91.0 | [SHPURA-update-0.91.0-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.91.0-to-0.91.1.zip) (798,7 КБ) |
+| 0.90.1 | [SHPURA-update-0.90.1-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.90.1-to-0.91.1.zip) (3,5 МБ) |
+| 0.89.2 | [SHPURA-update-0.89.2-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.89.2-to-0.91.1.zip) (3,9 МБ) |
+| 0.89.0 | [SHPURA-update-0.89.0-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.89.0-to-0.91.1.zip) (4,0 МБ) |
+| 0.88.4 | [SHPURA-update-0.88.4-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.88.4-to-0.91.1.zip) (4,1 МБ) |
+| 0.88.3 | [SHPURA-update-0.88.3-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.88.3-to-0.91.1.zip) (4,1 МБ) |
+| 0.88.2 | [SHPURA-update-0.88.2-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.88.2-to-0.91.1.zip) (4,1 МБ) |
+| 0.88.1 | [SHPURA-update-0.88.1-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.88.1-to-0.91.1.zip) (4,1 МБ) |
+| 0.88.0 | [SHPURA-update-0.88.0-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.88.0-to-0.91.1.zip) (4,2 МБ) |
+| 0.87.0 | [SHPURA-update-0.87.0-to-0.91.1.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.91.1/SHPURA-update-0.87.0-to-0.91.1.zip) (4,3 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.91.0
+## Что нового в 0.91.1
 
-Рассылка по датам каждого покупателя и по графику, Prom получает только изменения, журнал писем виден. После 0.90:
-владелец решил, что «Давно не бачилися» уходит не всем разом, а в свой день каждому; письма — равномерно весь час;
-Prom перестаёт получать 500 пустых заданий в час.
+Установка больше не спотыкается об остатки витрины, а чужая буква в адресе не роняет страницу. 24.11 установка 0.90.1
+отказала: на сайте лежали файлы витрины от неудачных установок 23.11, а новый выпуск содержал файлы с теми же именами
+(имя — хеш содержимого). Днём посетитель с адресом, где в «economix» стояла русская «с», получил служебную ошибку.
 
-- «Давно не бачилися»: на 90-й день после последнего заказа строго один раз; сбой отправки — повтор через 8 дней (отказ
-  адреса — без повтора); больше года без заказа — раз в год в годовщину. Корзина, «Ви дивилися товар», отзыв и
-  «Давно не бачилися» — «Автономно», потолок 50 в день (правила, которые человек менял, не тронуты).
-- Журнал рассылки на «Маркетинг → Автоматизація»: сегодня, отправлено, не ушло, повтор, отменено, план наперёд. В базе
-  только номера, без текстов и адресов; план наперёд считается на лету. Он же — в MCP «статистика писем».
-- Рекламные письма равномерно: нарастающим итогом по часу, 2–3 письма каждую минуту (140 в час при запасе служебных
-  30 %), без ожиданий; служебные — сразу.
-- Prom по API — только изменившиеся цены, остатки и наличие, пачками раз в 5 минут, тем же путём, что ROZETKA; выгрузка
-  каталога по кругу убрана, её ждущие и мёртвые задания удалены. Ручная отправка товара на Prom — по схеме API (тело —
-  список, поле остатка `quantity_in_stock`).
-- Профиль сотрудника: «Застосунок SHPURA Команда» — «Завантажити», QR-код ссылки и подключение телефона в одном блоке;
-  ссылка — настройка «Мобильное приложение → Обновление».
-- MCP на чтение: строки очереди заданий и мёртвые письма по шаблону и причине — без адресов и текстов.
+- Установщик: файл витрины вне описи, совпадающий с файлом пакета, принимается; несовпадающий — в копию отката и
+  заменяется, откат возвращает; чужой файл вне витрины — отказ, как раньше. Оба пути (пачками и «рядом»).
+- Сборщик пакетов предупреждает, сколько файлов витрины пакета совпадают по имени с файлами прошлых выпусков.
+- Адреса: русские буквы, похожие на латинские, в латинском слове заменяются, и страница открывается переадресацией;
+  не нашлась — обычная «не найдено», а не ошибка.
 
 ## История версий
 
+- **[0.91.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.1)** (24.11.2026) — подробности на странице выпуска.
 - **[0.91.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.0)** (24.11.2026) — подробности на странице выпуска.
 - **[0.90.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.90.1)** (24.11.2026) — подробности на странице выпуска.
 - **[0.89.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.89.2)** (24.11.2026) — MCP: чтение API площадок (только чтение).
@@ -170,7 +163,7 @@ Prom перестаёт получать 500 пустых заданий в ча
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.91.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.91.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.1), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
