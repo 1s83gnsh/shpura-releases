@@ -1,45 +1,44 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.92.0 (24.11.2026)
+## Последняя версия: 0.93.0 (24.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-production-0.92.0.zip) (25,7 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-production-0.93.0.zip) (25,7 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.91.1 | [SHPURA-update-0.91.1-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.91.1-to-0.92.0.zip) (3,3 МБ) |
-| 0.91.0 | [SHPURA-update-0.91.0-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.91.0-to-0.92.0.zip) (3,4 МБ) |
-| 0.90.1 | [SHPURA-update-0.90.1-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.90.1-to-0.92.0.zip) (3,6 МБ) |
-| 0.89.2 | [SHPURA-update-0.89.2-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.89.2-to-0.92.0.zip) (4,0 МБ) |
-| 0.89.0 | [SHPURA-update-0.89.0-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.89.0-to-0.92.0.zip) (4,0 МБ) |
-| 0.88.4 | [SHPURA-update-0.88.4-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.88.4-to-0.92.0.zip) (4,1 МБ) |
-| 0.88.3 | [SHPURA-update-0.88.3-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.88.3-to-0.92.0.zip) (4,1 МБ) |
-| 0.88.2 | [SHPURA-update-0.88.2-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.88.2-to-0.92.0.zip) (4,1 МБ) |
-| 0.88.1 | [SHPURA-update-0.88.1-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.88.1-to-0.92.0.zip) (4,2 МБ) |
-| 0.88.0 | [SHPURA-update-0.88.0-to-0.92.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.92.0/SHPURA-update-0.88.0-to-0.92.0.zip) (4,2 МБ) |
+| 0.92.0 | [SHPURA-update-0.92.0-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.92.0-to-0.93.0.zip) (3,3 МБ) |
+| 0.91.1 | [SHPURA-update-0.91.1-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.91.1-to-0.93.0.zip) (3,4 МБ) |
+| 0.91.0 | [SHPURA-update-0.91.0-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.91.0-to-0.93.0.zip) (3,5 МБ) |
+| 0.90.1 | [SHPURA-update-0.90.1-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.90.1-to-0.93.0.zip) (3,7 МБ) |
+| 0.89.2 | [SHPURA-update-0.89.2-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.89.2-to-0.93.0.zip) (4,1 МБ) |
+| 0.89.0 | [SHPURA-update-0.89.0-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.89.0-to-0.93.0.zip) (4,2 МБ) |
+| 0.88.4 | [SHPURA-update-0.88.4-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.88.4-to-0.93.0.zip) (4,2 МБ) |
+| 0.88.3 | [SHPURA-update-0.88.3-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.88.3-to-0.93.0.zip) (4,2 МБ) |
+| 0.88.2 | [SHPURA-update-0.88.2-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.88.2-to-0.93.0.zip) (4,2 МБ) |
+| 0.88.1 | [SHPURA-update-0.88.1-to-0.93.0.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.93.0/SHPURA-update-0.88.1-to-0.93.0.zip) (4,2 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.92.0
+## Что нового в 0.93.0
 
-Обновление с таблицами — за секунды, а не за час; фон и место на хостинге под присмотром. 24.11 вечером установка
-0.90.1 → 0.91.1 час стояла на копии таблиц (построчная выгрузка, главный вес — журнал заданий `queue_jobs`), пауза фона
-остановила саму копию, а хостинг ответил «507 Insufficient Storage» — кончилась квота.
+Копия базы — один сжатый файл, как у mysqldump: места столько, сколько весит копия, и минуты вместо часов. 24.11 ночная
+копия базы на хосте раз за разом вставала на 66 %, держала установку обновления, а для копии в 60 МБ требовалось до
+0,8 ГБ временного места: таблицы выгружались в несжатые части, упаковывались и распаковывались для проверки.
 
-- Копия таблиц перед обновлением — внутри самой базы (копия таблицы и заполнение одним запросом), сверка строк, после
-  успешной установки копии удаляются; при сбое таблицы возвращаются из копий. Замер: 0,3 с вместо часа.
-- Журнальные таблицы (журнал заданий `queue_jobs`) в копию перед обновлением не берутся: их записи беречь незачем.
-- Пауза фоновых задач не останавливает задания самой установки обновления.
-- MCP: `maintenance.diagnose` — что мешает следующей установке (лишние файлы витрины, версия, зависшие и мёртвые задания,
-  ошибки по группам); `maintenance.clean_build_leftovers` — уборка лишних файлов витрины в два шага, в копию, с журналом.
-- «Система → Регламенти» — общая таблица: поиск по названию и коду, отборы, сортировка, страницы, меню строки.
-- Предупреждение сборщика пакетов печатается без символов, которых нет в консоли Windows.
-
-Новое поведение установки начинает работать со следующей установки после этой: пакет ставит установщик версии на сайте.
+- Копия базы без фото — один файл `.sql.gz`, строки пишутся сразу в сжатом виде; на хостинге, где разрешён запуск
+  программ, — через mysqldump (пароль через временный файл параметров, не в командной строке), иначе средствами PHP.
+  Замер: 45 МБ временного места вместо 861 МБ, 29 с вместо ~50 с локально.
+- Проверка копии без распаковки на диск: число строк каждой таблицы, схема, последняя метка, сумма файла.
+- Восстановление читает `.sql.gz` потоком; старые архивы `.tar.gz` читаются и восстанавливаются как раньше.
+- Журнальные таблицы (`queue_jobs`) — в копии только схема, без строк.
+- MCP `maintenance.host_check` показывает, каким способом снимается копия.
+- Заголовок страницы обновления — «Обновление сайта».
 
 ## История версий
 
+- **[0.93.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.93.0)** (24.11.2026) — подробности на странице выпуска.
 - **[0.92.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.92.0)** (24.11.2026) — подробности на странице выпуска.
 - **[0.91.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.1)** (24.11.2026) — подробности на странице выпуска.
 - **[0.91.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.91.0)** (24.11.2026) — подробности на странице выпуска.
@@ -169,7 +168,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.92.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.92.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.93.0](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.93.0), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
