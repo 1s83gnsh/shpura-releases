@@ -1,36 +1,38 @@
 # SHPURA — выпуски для обновления сайтов
 
-## Последняя версия: 0.96.3 (26.11.2026)
+## Последняя версия: 0.96.4 (26.11.2026)
 
-**Скачать полный пакет:** [SHPURA-production-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-production-0.96.3.zip) (26,6 МБ) — для новой установки магазина мастером.
+**Скачать полный пакет:** [SHPURA-production-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-production-0.96.4.zip) (26,6 МБ) — для новой установки магазина мастером.
 
 **Обновить работающий сайт** — скачивать ничего не нужно: в админке «Система → Обновление» сайт сам покажет «Доступна версия» и поставит её кнопкой «Установить». Файл из таблицы нужен, только если сайт не может связаться с GitHub или стоит на версии старше 0.23.1.
 
 | Версия на сайте сейчас | Файл обновления |
 |---|---|
-| 0.96.2 | [SHPURA-update-0.96.2-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.96.2-to-0.96.3.zip) (684,9 КБ) |
-| 0.96.1 | [SHPURA-update-0.96.1-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.96.1-to-0.96.3.zip) (3,5 МБ) |
-| 0.95.0 | [SHPURA-update-0.95.0-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.95.0-to-0.96.3.zip) (4,7 МБ) |
-| 0.94.1 | [SHPURA-update-0.94.1-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.94.1-to-0.96.3.zip) (4,8 МБ) |
-| 0.94.0 | [SHPURA-update-0.94.0-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.94.0-to-0.96.3.zip) (4,8 МБ) |
-| 0.93.0 | [SHPURA-update-0.93.0-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.93.0-to-0.96.3.zip) (5,3 МБ) |
-| 0.92.0 | [SHPURA-update-0.92.0-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.92.0-to-0.96.3.zip) (5,3 МБ) |
-| 0.91.1 | [SHPURA-update-0.91.1-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.91.1-to-0.96.3.zip) (5,4 МБ) |
-| 0.91.0 | [SHPURA-update-0.91.0-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.91.0-to-0.96.3.zip) (5,4 МБ) |
-| 0.90.1 | [SHPURA-update-0.90.1-to-0.96.3.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.3/SHPURA-update-0.90.1-to-0.96.3.zip) (5,5 МБ) |
+| 0.96.3 | [SHPURA-update-0.96.3-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.96.3-to-0.96.4.zip) (1,3 МБ) |
+| 0.96.2 | [SHPURA-update-0.96.2-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.96.2-to-0.96.4.zip) (1,4 МБ) |
+| 0.96.1 | [SHPURA-update-0.96.1-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.96.1-to-0.96.4.zip) (3,5 МБ) |
+| 0.95.0 | [SHPURA-update-0.95.0-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.95.0-to-0.96.4.zip) (4,7 МБ) |
+| 0.94.1 | [SHPURA-update-0.94.1-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.94.1-to-0.96.4.zip) (4,8 МБ) |
+| 0.94.0 | [SHPURA-update-0.94.0-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.94.0-to-0.96.4.zip) (4,8 МБ) |
+| 0.93.0 | [SHPURA-update-0.93.0-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.93.0-to-0.96.4.zip) (5,3 МБ) |
+| 0.92.0 | [SHPURA-update-0.92.0-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.92.0-to-0.96.4.zip) (5,3 МБ) |
+| 0.91.1 | [SHPURA-update-0.91.1-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.91.1-to-0.96.4.zip) (5,4 МБ) |
+| 0.91.0 | [SHPURA-update-0.91.0-to-0.96.4.zip](https://github.com/1s83gnsh/shpura-releases/releases/download/v0.96.4/SHPURA-update-0.91.0-to-0.96.4.zip) (5,4 МБ) |
 
 Версию на сайте видно в админке: «Система → Обновление», блок «Сейчас». Файл загружается там же: нажмите «Другой способ» (если сайт показывает новую версию) или «Установить из файла или по ссылке», на шаге «Откуда» выберите «Из файла ZIP».
 
-## Что нового в 0.96.3
+## Что нового в 0.96.4
 
-Установка не отменяется из-за слежения за заказами площадок. 26.11 установка 0.96.2 трижды отказала: «идут фоновые задания: слежение за заказами площадок (идёт 8 мин)». Решение 25.11 («установка не ждёт заданий, работающих шагами») не касалось регламентов минутной полосы: установка узнавала шаговые задания только по типу, а у всех таких регламентов тип один.
+Плашка про уведомления браузера спрашивает один раз, а не при каждом «В кошик». Владелец 26.11: нажал «В кошик» на втором товаре — плашка снова.
 
-- У регламента каталога появилось свойство `stepped`: установка такой регламент не ждёт, он останавливается между шагами по метке паузы и продолжает с того же места. Поставлено только слежению за заказами площадок (`marketplaces.watch_facts`), у которого это доказано кодом; письма и прочие короткие задания ждутся по-прежнему до 45 с.
-- Слежение реально останавливается: команда спрашивает срок запуска и метку паузы между кабинетами, перепроверка открытых заказов идёт порциями с курсором, приём новых заказов под меткой паузы не начинается и достаётся следующему проходу.
-- Строку задания, чей процесс убит хостингом, по-прежнему возвращает очередь через 15 минут; для установки она больше не помеха.
+- Причина: человек нажимал «Так» и закрывал окно браузера крестиком. Разрешение оставалось «не отвечено», а паузу после такого ответа сайт не записывал, поэтому плашка возвращалась на каждом добавлении, пока счётчик показов не доходил до трёх. Сам счётчик не имел срока и жил вечно. Ещё два дефекта: два быстрых «В кошик» подряд засчитывали показ дважды, а без хранилища браузера «Не зараз» не запоминалось.
+- Теперь пауза записывается и после «Не зараз», и после закрытого окна, и после отказа. Показы считаются за период длиной в паузу и потом начинаются заново. Без хранилища браузера выбор помнится до конца вкладки.
+- Умолчания в настройках уведомлений браузера: пауза 365 дней (было 30), показов за период 1 (было 3). Если значения уже записаны в настройках сайта, остаются записанные; их меняют на экране настроек уведомлений.
+- Внутренняя аналитика, баннер куки и Google не затронуты: баннер согласий — следующая работа (план `2026-11-26-soglasiya-pokupatelya`).
 
 ## История версий
 
+- **[0.96.4](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.4)** (26.11.2026) — подробности на странице выпуска.
 - **[0.96.3](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.3)** (26.11.2026) — подробности на странице выпуска.
 - **[0.96.2](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.2)** (26.11.2026) — подробности на странице выпуска.
 - **[0.96.1](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.1)** (25.11.2026) — подробности на странице выпуска.
@@ -167,7 +169,7 @@
 
 ## Почему файлов нет в списке вверху страницы
 
-Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.96.3](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.3), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
+Список вверху (`LICENSE`, `README.md`) — это сам репозиторий, то есть тексты. Пакеты весят десятки мегабайт и у каждой версии свои, поэтому GitHub хранит их отдельно — как вложения к письму — на странице выпуска ([версия 0.96.4](https://github.com/1s83gnsh/shpura-releases/releases/tag/v0.96.4), блок «Assets» внизу). Ссылки выше ведут прямо на эти вложения: нажали — и браузер скачивает файл. Все версии — на странице [Releases](https://github.com/1s83gnsh/shpura-releases/releases).
 
 ## Можно ли доверять файлам
 
